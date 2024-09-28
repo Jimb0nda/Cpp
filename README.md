@@ -1,5 +1,5 @@
 C++ Scripts to build up C++ knowledge
 
-Compile:
+Compile manually:
 
 g++ -o {outputName} {filename}.cpp
